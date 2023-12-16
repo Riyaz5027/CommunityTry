@@ -1,0 +1,13 @@
+What i have learned is
+
+git add <file name>
+
+git add .
+
+git rm --cahced <file name> : to unstage
+
+git restore <file name>: to restore the deleted file
+
+git restore --staged : to discard the changes in working directory
+
+git reset <hash value>: means that the changes are now unstaged
